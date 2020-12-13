@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/reym-photography/static/css/main.323dc6c3.chunk.css",
+    "main.js": "/reym-photography/static/js/main.19a05e80.chunk.js",
+    "main.js.map": "/reym-photography/static/js/main.19a05e80.chunk.js.map",
+    "runtime-main.js": "/reym-photography/static/js/runtime-main.dfb81862.js",
+    "runtime-main.js.map": "/reym-photography/static/js/runtime-main.dfb81862.js.map",
+    "static/css/2.4483a5c2.chunk.css": "/reym-photography/static/css/2.4483a5c2.chunk.css",
+    "static/js/2.32f3c847.chunk.js": "/reym-photography/static/js/2.32f3c847.chunk.js",
+    "static/js/2.32f3c847.chunk.js.map": "/reym-photography/static/js/2.32f3c847.chunk.js.map",
+    "index.html": "/reym-photography/index.html",
+    "precache-manifest.fb4a15e7916db3f517ba3428028df12d.js": "/reym-photography/precache-manifest.fb4a15e7916db3f517ba3428028df12d.js",
+    "service-worker.js": "/reym-photography/service-worker.js",
+    "static/css/2.4483a5c2.chunk.css.map": "/reym-photography/static/css/2.4483a5c2.chunk.css.map",
+    "static/css/main.323dc6c3.chunk.css.map": "/reym-photography/static/css/main.323dc6c3.chunk.css.map",
+    "static/js/2.32f3c847.chunk.js.LICENSE.txt": "/reym-photography/static/js/2.32f3c847.chunk.js.LICENSE.txt",
+    "static/media/arrow.svg": "/reym-photography/static/media/arrow.a74212b6.svg",
+    "static/media/contact-info-icon1.svg": "/reym-photography/static/media/contact-info-icon1.04e4f259.svg",
+    "static/media/contact-info-icon2.svg": "/reym-photography/static/media/contact-info-icon2.df4fdedf.svg",
+    "static/media/contact-info-icon3.svg": "/reym-photography/static/media/contact-info-icon3.3cf93bcf.svg",
+    "static/media/dribble.svg": "/reym-photography/static/media/dribble.db57da79.svg",
+    "static/media/facebook.svg": "/reym-photography/static/media/facebook.aa1e8c9c.svg",
+    "static/media/logo-yellow.svg": "/reym-photography/static/media/logo-yellow.789bce48.svg",
+    "static/media/logo.svg": "/reym-photography/static/media/logo.39c5f3c6.svg",
+    "static/media/mobile-close.svg": "/reym-photography/static/media/mobile-close.f521cf45.svg",
+    "static/media/mobile-menu.svg": "/reym-photography/static/media/mobile-menu.10823520.svg",
+    "static/media/partner01.svg": "/reym-photography/static/media/partner01.1f6de9f0.svg",
+    "static/media/partner02.svg": "/reym-photography/static/media/partner02.d8f2a498.svg",
+    "static/media/partner03.svg": "/reym-photography/static/media/partner03.0d091731.svg",
+    "static/media/partner04.svg": "/reym-photography/static/media/partner04.81292e3c.svg",
+    "static/media/partner05.svg": "/reym-photography/static/media/partner05.d39e28a3.svg",
+    "static/media/partner06.svg": "/reym-photography/static/media/partner06.a0c63ad5.svg",
+    "static/media/twitter.svg": "/reym-photography/static/media/twitter.0ecdf21a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dfb81862.js",
+    "static/css/2.4483a5c2.chunk.css",
+    "static/js/2.32f3c847.chunk.js",
+    "static/css/main.323dc6c3.chunk.css",
+    "static/js/main.19a05e80.chunk.js"
+  ]
+}
